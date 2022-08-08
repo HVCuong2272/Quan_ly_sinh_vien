@@ -1,0 +1,126 @@
+C:\Users\Asus\Desktop\QLSV\QLSV\bin\Debug\QLSV.exe.config
+C:\Users\Asus\Desktop\QLSV\QLSV\bin\Debug\QLSV.exe
+C:\Users\Asus\Desktop\QLSV\QLSV\bin\Debug\QLSV.pdb
+C:\Users\Asus\Desktop\QLSV\QLSV\obj\Debug\QLSV.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\QLSV\QLSV\obj\Debug\QLSV.Properties.Resources.resources
+C:\Users\Asus\Desktop\QLSV\QLSV\obj\Debug\QLSV.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\QLSV\QLSV\obj\Debug\QLSV.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\QLSV\QLSV\obj\Debug\QLSV.exe
+C:\Users\Asus\Desktop\QLSV\QLSV\obj\Debug\QLSV.pdb
+C:\Users\Asus\Desktop\QLSV\QLSV\obj\Debug\QLSV.AddStudentForm.resources
+C:\Users\Asus\Desktop\QLSV\QLSV\obj\Debug\QLSV.MainForm01.resources
+C:\Users\Asus\Desktop\QLSV\QLSV\obj\Debug\QLSV.progressBar.resources
+C:\Users\Asus\Desktop\QLSV\QLSV\obj\Debug\QLSV.UpdateDeleteStudentForm.resources
+C:\Users\Asus\Desktop\QLSV\QLSV\obj\Debug\QLSV.studentsListForm.resources
+C:\Users\Asus\Desktop\QLSV\QLSV\obj\Debug\QLSV.StaticsForm.resources
+C:\Users\Asus\Desktop\QLSV\QLSV\obj\Debug\QLSV.PrintStdForm.resources
+C:\Users\Asus\Desktop\QLSV\QLSV\obj\Debug\QLSV.ManageStudentForm.resources
+C:\Users\Asus\Desktop\QLSV\QLSV\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Asus\Desktop\QLSV\QLSV\bin\Debug\itextsharp.dll
+C:\Users\Asus\Desktop\QLSV\QLSV\bin\Debug\NLipsum.Core.dll
+C:\Users\Asus\Desktop\QLSV\QLSV\bin\Debug\itextsharp.xml
+C:\Users\Asus\Desktop\QLSV\QLSV\bin\Debug\NLipsum.Core.xml
+C:\Users\Asus\Desktop\QLSV\QLSV\obj\Debug\QLSV.csproj.CopyComplete
+C:\Users\Asus\Desktop\QLSV\QLSV\obj\Debug\QLSV.Log_In_form.resources
+C:\Users\Asus\Desktop\QLSV\QLSV\obj\Debug\QLSV.Coures.AddCourseForm.resources
+C:\Users\Asus\Desktop\QLSV\QLSV\obj\Debug\QLSV.Coures.RemoveCourseForm.resources
+C:\Users\Asus\Desktop\QLSV\QLSV\obj\Debug\QLSV.Coures.EditCourseForm.resources
+C:\Users\Asus\Desktop\QLSV\QLSV\obj\Debug\QLSV.Coures.ManageCourseForm.resources
+C:\Users\Asus\Desktop\QLSV\QLSV\obj\Debug\QLSV.Coures.PrintCourseForm.resources
+C:\Users\Asus\Desktop\QLSV\QLSV\obj\Debug\QLSV.SCORE.AddScoreForm.resources
+C:\Users\Asus\Desktop\QLSV\QLSV\obj\Debug\QLSV.SCORE.RemoveScoreForm.resources
+C:\Users\Asus\Desktop\QLSV\QLSV\obj\Debug\QLSV.SCORE.ManageScoreForm.resources
+C:\Users\Asus\Desktop\QLSV\QLSV\obj\Debug\QLSV.SCORE.avgScoreByCourseForm.resources
+C:\Users\Asus\Desktop\QLSV\QLSV\obj\Debug\QLSV.SCORE.PrintScoreForm.resources
+C:\Users\Asus\Desktop\QLSV\QLSV\obj\Debug\QLSV.AddAccout.resources
+C:\Users\Asus\Desktop\QLSV\QLSV\obj\Debug\QLSV.RESULT.ResultForm.resources
+C:\Users\Asus\Desktop\QLSV\QLSV\obj\Debug\QLSV.RESULT.StaticResult.resources
+C:\Users\Asus\Desktop\QLSV\QLSV\obj\Debug\QLSV.ACCOUT.ManageAccout.resources
+C:\Users\Asus\Desktop\QLSV\QLSV\bin\Debug\ClosedXML.dll
+C:\Users\Asus\Desktop\QLSV\QLSV\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Asus\Desktop\QLSV\QLSV\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Asus\Desktop\QLSV\QLSV\bin\Debug\System.IO.Packaging.dll
+C:\Users\Asus\Desktop\QLSV\QLSV\bin\Debug\ClosedXML.pdb
+C:\Users\Asus\Desktop\QLSV\QLSV\bin\Debug\ClosedXML.xml
+C:\Users\Asus\Desktop\QLSV\QLSV\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Asus\Desktop\QLSV\QLSV\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Asus\Desktop\QLSV\QLSV\obj\Debug\QLSV.ACCOUT.LoginAdmin.resources
+C:\Users\Asus\Desktop\QLSV\QLSV\obj\Debug\QLSV.ACCOUNT.AddIDUser.resources
+C:\Users\Asus\Desktop\QLSV\QLSV\obj\Debug\QLSV.ACCOUNT.AddInfoUser.resources
+C:\Users\Asus\Desktop\QLSV\QLSV\bin\Debug\aa-DJ\QLSV.resources.dll
+C:\Users\Asus\Desktop\QLSV\QLSV\obj\Debug\QLSV.MainForm01.aa-DJ.resources
+C:\Users\Asus\Desktop\QLSV\QLSV\obj\Debug\aa-DJ\QLSV.resources.dll
+C:\Users\Asus\Desktop\QLSV\QLSV\obj\Debug\QLSV.HUMAN.addContactForm.resources
+C:\Users\Asus\Desktop\QLSV\QLSV\obj\Debug\QLSV.HUMAN.Contacts_Full_List_Form.resources
+C:\Users\Asus\Desktop\QLSV\QLSV\obj\Debug\QLSV.HUMAN.Contacts_Full.resources
+C:\Users\Asus\Desktop\QLSV\QLSV\obj\Debug\QLSV.HUMAN.Edit_Contact_Form.resources
+C:\Users\Asus\Desktop\QLSV\QLSV\obj\Debug\QLSV.HUMAN.Select_Contact_Form.resources
+C:\Users\Asus\Desktop\QLSV\QLSV\obj\Debug\QLSV.Own.resources
+C:\Users\Asus\Desktop\QLSV\QLSV\bin\Debug\SautinSoft.Document.dll
+C:\Users\Asus\Desktop\QLSV\QLSV\bin\Debug\SautinSoft.Document.xml
+C:\Users\Asus\Desktop\QLSV\QLSV\obj\Debug\QLSV.Coures.AddCourse.resources
+C:\Users\Asus\Desktop\QLSV\QLSV\obj\Debug\QLSV.Coures.Avai_Course.resources
+C:\Users\Asus\Desktop\QLSV\QLSV\obj\Debug\QLSV.HUMAN.LoginAdmin2.resources
+D:\HK  II 2020 2021\win\QLSV\QLSV\bin\Debug\QLSV.exe.config
+D:\HK  II 2020 2021\win\QLSV\QLSV\bin\Debug\QLSV.exe
+D:\HK  II 2020 2021\win\QLSV\QLSV\bin\Debug\QLSV.pdb
+D:\HK  II 2020 2021\win\QLSV\QLSV\bin\Debug\aa-DJ\QLSV.resources.dll
+D:\HK  II 2020 2021\win\QLSV\QLSV\bin\Debug\BouncyCastle.Crypto.dll
+D:\HK  II 2020 2021\win\QLSV\QLSV\bin\Debug\ClosedXML.dll
+D:\HK  II 2020 2021\win\QLSV\QLSV\bin\Debug\DocumentFormat.OpenXml.dll
+D:\HK  II 2020 2021\win\QLSV\QLSV\bin\Debug\ExcelNumberFormat.dll
+D:\HK  II 2020 2021\win\QLSV\QLSV\bin\Debug\itextsharp.dll
+D:\HK  II 2020 2021\win\QLSV\QLSV\bin\Debug\NLipsum.Core.dll
+D:\HK  II 2020 2021\win\QLSV\QLSV\bin\Debug\SautinSoft.Document.dll
+D:\HK  II 2020 2021\win\QLSV\QLSV\bin\Debug\System.IO.Packaging.dll
+D:\HK  II 2020 2021\win\QLSV\QLSV\bin\Debug\ClosedXML.pdb
+D:\HK  II 2020 2021\win\QLSV\QLSV\bin\Debug\ClosedXML.xml
+D:\HK  II 2020 2021\win\QLSV\QLSV\bin\Debug\DocumentFormat.OpenXml.xml
+D:\HK  II 2020 2021\win\QLSV\QLSV\bin\Debug\ExcelNumberFormat.xml
+D:\HK  II 2020 2021\win\QLSV\QLSV\bin\Debug\itextsharp.xml
+D:\HK  II 2020 2021\win\QLSV\QLSV\bin\Debug\NLipsum.Core.xml
+D:\HK  II 2020 2021\win\QLSV\QLSV\bin\Debug\SautinSoft.Document.xml
+D:\HK  II 2020 2021\win\QLSV\QLSV\obj\Debug\QLSV.AddAccout.resources
+D:\HK  II 2020 2021\win\QLSV\QLSV\obj\Debug\QLSV.ACCOUNT.AddIDUser.resources
+D:\HK  II 2020 2021\win\QLSV\QLSV\obj\Debug\QLSV.ACCOUNT.AddInfoUser.resources
+D:\HK  II 2020 2021\win\QLSV\QLSV\obj\Debug\QLSV.ACCOUT.LoginAdmin.resources
+D:\HK  II 2020 2021\win\QLSV\QLSV\obj\Debug\QLSV.ACCOUT.ManageAccout.resources
+D:\HK  II 2020 2021\win\QLSV\QLSV\obj\Debug\QLSV.AddStudentForm.resources
+D:\HK  II 2020 2021\win\QLSV\QLSV\obj\Debug\QLSV.Coures.AddCourse.resources
+D:\HK  II 2020 2021\win\QLSV\QLSV\obj\Debug\QLSV.Coures.AddCourseForm.resources
+D:\HK  II 2020 2021\win\QLSV\QLSV\obj\Debug\QLSV.Coures.Avai_Course.resources
+D:\HK  II 2020 2021\win\QLSV\QLSV\obj\Debug\QLSV.Coures.EditCourseForm.resources
+D:\HK  II 2020 2021\win\QLSV\QLSV\obj\Debug\QLSV.Coures.ManageCourseForm.resources
+D:\HK  II 2020 2021\win\QLSV\QLSV\obj\Debug\QLSV.Coures.PrintCourseForm.resources
+D:\HK  II 2020 2021\win\QLSV\QLSV\obj\Debug\QLSV.Coures.RemoveCourseForm.resources
+D:\HK  II 2020 2021\win\QLSV\QLSV\obj\Debug\QLSV.HUMAN.LoginAdmin2.resources
+D:\HK  II 2020 2021\win\QLSV\QLSV\obj\Debug\QLSV.Own.resources
+D:\HK  II 2020 2021\win\QLSV\QLSV\obj\Debug\QLSV.HUMAN.addContactForm.resources
+D:\HK  II 2020 2021\win\QLSV\QLSV\obj\Debug\QLSV.HUMAN.Contacts_Full_List_Form.resources
+D:\HK  II 2020 2021\win\QLSV\QLSV\obj\Debug\QLSV.HUMAN.Contacts_Full.resources
+D:\HK  II 2020 2021\win\QLSV\QLSV\obj\Debug\QLSV.HUMAN.Edit_Contact_Form.resources
+D:\HK  II 2020 2021\win\QLSV\QLSV\obj\Debug\QLSV.HUMAN.Select_Contact_Form.resources
+D:\HK  II 2020 2021\win\QLSV\QLSV\obj\Debug\QLSV.Log_In_form.resources
+D:\HK  II 2020 2021\win\QLSV\QLSV\obj\Debug\QLSV.ManageStudentForm.resources
+D:\HK  II 2020 2021\win\QLSV\QLSV\obj\Debug\QLSV.PrintStdForm.resources
+D:\HK  II 2020 2021\win\QLSV\QLSV\obj\Debug\QLSV.RESULT.ResultForm.resources
+D:\HK  II 2020 2021\win\QLSV\QLSV\obj\Debug\QLSV.RESULT.StaticResult.resources
+D:\HK  II 2020 2021\win\QLSV\QLSV\obj\Debug\QLSV.SCORE.AddScoreForm.resources
+D:\HK  II 2020 2021\win\QLSV\QLSV\obj\Debug\QLSV.SCORE.avgScoreByCourseForm.resources
+D:\HK  II 2020 2021\win\QLSV\QLSV\obj\Debug\QLSV.SCORE.ManageScoreForm.resources
+D:\HK  II 2020 2021\win\QLSV\QLSV\obj\Debug\QLSV.SCORE.PrintScoreForm.resources
+D:\HK  II 2020 2021\win\QLSV\QLSV\obj\Debug\QLSV.SCORE.RemoveScoreForm.resources
+D:\HK  II 2020 2021\win\QLSV\QLSV\obj\Debug\QLSV.StaticsForm.resources
+D:\HK  II 2020 2021\win\QLSV\QLSV\obj\Debug\QLSV.UpdateDeleteStudentForm.resources
+D:\HK  II 2020 2021\win\QLSV\QLSV\obj\Debug\QLSV.MainForm01.resources
+D:\HK  II 2020 2021\win\QLSV\QLSV\obj\Debug\QLSV.progressBar.resources
+D:\HK  II 2020 2021\win\QLSV\QLSV\obj\Debug\QLSV.Properties.Resources.resources
+D:\HK  II 2020 2021\win\QLSV\QLSV\obj\Debug\QLSV.studentsListForm.resources
+D:\HK  II 2020 2021\win\QLSV\QLSV\obj\Debug\QLSV.MainForm01.aa-DJ.resources
+D:\HK  II 2020 2021\win\QLSV\QLSV\obj\Debug\QLSV.csproj.GenerateResource.cache
+D:\HK  II 2020 2021\win\QLSV\QLSV\obj\Debug\QLSV.csproj.CoreCompileInputs.cache
+D:\HK  II 2020 2021\win\QLSV\QLSV\obj\Debug\aa-DJ\QLSV.resources.dll
+D:\HK  II 2020 2021\win\QLSV\QLSV\obj\Debug\QLSV.csproj.CopyComplete
+D:\HK  II 2020 2021\win\QLSV\QLSV\obj\Debug\QLSV.exe
+D:\HK  II 2020 2021\win\QLSV\QLSV\obj\Debug\QLSV.pdb
+D:\HK  II 2020 2021\win\QLSV\QLSV\obj\Debug\QLSV.csproj.AssemblyReference.cache
